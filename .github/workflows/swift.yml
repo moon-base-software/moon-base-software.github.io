@@ -1,0 +1,19 @@
+name: Swift
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: macOS-latest
+
+    steps:
+    - uses: actions/checkout@master
+    - name: Generate site
+      run: ./publish generate
+    - name: Make deploy script executable
+      run: sudo chmod 777 Deploy.sh
+    - name: Deploy
+      env:
+        GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+      run: sudo ./Deploy.sh $GITHUB_TOKEN Output
