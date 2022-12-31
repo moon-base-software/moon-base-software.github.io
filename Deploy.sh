@@ -16,7 +16,7 @@ echo "Git Config Set"
 
 CLONE_DIR="__DeploymentRepo__"
 
-echo "Token: $API_TOKEN_GITHUB"
+echo "Token: $GITHUB_TOKEN"
 
 # clone, delete files in the clone, and copy (new) files over
 # this handles file deletions, additions, and changes seamlessly
