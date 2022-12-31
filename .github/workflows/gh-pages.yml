@@ -1,0 +1,32 @@
+name: Github Pages
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  gh-pages:
+    runs-on: ubuntu-latest
+    container:
+      image: "swift:5.5"
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+        
+    - name: Build Publish
+      run: |
+        git clone https://github.com/JohnSundell/Publish.git
+        cd Publish
+        make
+
+    - name: Generate Site
+      run: cd site-generation && publish generate
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v2
+      env:
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        PUBLISH_BRANCH: main
+        PUBLISH_DIR: site-generation/Output
+        PRESERVE: true
