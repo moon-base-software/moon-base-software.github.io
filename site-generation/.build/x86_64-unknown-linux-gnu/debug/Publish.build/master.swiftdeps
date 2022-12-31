@@ -1,0 +1,123 @@
+version: "Swift version 5.5.3 (swift-5.5.3-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1672482367, 147830009]
+build_end_time: [1672482373, 422639846]
+inputs:
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/AnyItem.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Audio.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Content.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/ContentProtocol.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/DeploymentMethod.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Favicon.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/FeedConfiguration.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/HTMLFactory.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/HTMLFileMode.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Index.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Item.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/ItemRSSProperties.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Location.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Mutations.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Page.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Path.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PlotComponents.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PlotEnvironmentKeys.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PlotModifiers.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Plugin.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PodcastAuthor.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PodcastCompatibleWebsiteItemMetadata.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PodcastEpisodeMetadata.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PodcastFeedConfiguration.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Predicate.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PublishedWebsite.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PublishingContext.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PublishingError.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/PublishingStep.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/RSSFeedConfiguration.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Section.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/SectionMap.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/SortOrder.swift"
+  : [1672482356, 474035024]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/StringWrapper.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Tag.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/TagDetailsPage.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/TagHTMLConfiguration.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/TagListPage.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Theme+Foundation.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Theme.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Video.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/API/Website.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/Array+Appending.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/CommandLine+Output.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/ContentError.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/File+SwiftPackageFolder.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/FileIOError.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/Folder+Group.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/HTMLGenerator.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/MarkdownContentFactory.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/MarkdownFileHandler.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/MarkdownMetadataDecoder.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/PodcastError.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/PodcastFeedGenerator.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/PublishingPipeline.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/RSSFeedGenerator.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/ShellOutError+PublishingErrorConvertible.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/SiteMapGenerator.swift"
+  : [1672482356, 478034973]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/publish/Sources/Publish/Internal/String+Normalized.swift"
+  : [1672482356, 478034973]

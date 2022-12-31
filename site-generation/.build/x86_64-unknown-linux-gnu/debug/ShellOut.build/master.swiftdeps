@@ -1,0 +1,6 @@
+version: "Swift version 5.5.3 (swift-5.5.3-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1672482358, 65649986]
+build_end_time: [1672482361, 810636043]
+inputs:
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/shellout/Sources/ShellOut.swift": [1672482356, 534036159]

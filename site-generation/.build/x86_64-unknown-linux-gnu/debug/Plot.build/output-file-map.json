@@ -1,0 +1,395 @@
+{
+  "": {
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/master.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Attribute.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Attribute.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Attribute.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Attribute~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Attribute.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Component.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Component.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Component.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Component~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Component.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ComponentAttributes.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentAttributes.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentAttributes.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentAttributes~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentAttributes.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ComponentBuilder.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentBuilder.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentBuilder.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentBuilder~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentBuilder.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ComponentContainer.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentContainer.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentContainer.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentContainer~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentContainer.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ComponentGroup.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentGroup.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentGroup.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentGroup~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ComponentGroup.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ControlFlow.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ControlFlow.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ControlFlow.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ControlFlow~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ControlFlow.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Document.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Document.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Document.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Document~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Document.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/DocumentEncoding.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/DocumentEncoding.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/DocumentEncoding.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/DocumentEncoding~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/DocumentEncoding.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Element.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Element.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Element.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Element~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Element.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ElementClosingMode.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementClosingMode.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementClosingMode.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementClosingMode~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementClosingMode.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ElementComponent.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementComponent.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementComponent.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementComponent~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementComponent.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ElementDefinition.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementDefinition.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementDefinition.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementDefinition~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/ElementDefinition.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/EmptyComponent.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EmptyComponent.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EmptyComponent.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EmptyComponent~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EmptyComponent.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/EnvironmentKey.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EnvironmentKey.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EnvironmentKey.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EnvironmentKey~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EnvironmentKey.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/EnvironmentValue.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EnvironmentValue.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EnvironmentValue.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EnvironmentValue~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/EnvironmentValue.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTML.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTML.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTML.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTML~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTML.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLAnchorRelationship.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAnchorRelationship.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAnchorRelationship.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAnchorRelationship~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAnchorRelationship.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLAnchorTarget.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAnchorTarget.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAnchorTarget.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAnchorTarget~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAnchorTarget.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLAttributes.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAttributes.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAttributes.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAttributes~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAttributes.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLAudioFormat.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAudioFormat.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAudioFormat.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAudioFormat~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLAudioFormat.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLButtonType.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLButtonType.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLButtonType.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLButtonType~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLButtonType.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLComponents.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLComponents.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLComponents.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLComponents~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLComponents.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLElements.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLElements.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLElements.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLElements~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLElements.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLFormContentType.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLFormContentType.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLFormContentType.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLFormContentType~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLFormContentType.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLFormMethod.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLFormMethod.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLFormMethod.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLFormMethod~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLFormMethod.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLInputType.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLInputType.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLInputType.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLInputType~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLInputType.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLLinkRelationship.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLLinkRelationship.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLLinkRelationship.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLLinkRelationship~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLLinkRelationship.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLListStyle.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLListStyle.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLListStyle.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLListStyle~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLListStyle.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLVideoFormat.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLVideoFormat.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLVideoFormat.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLVideoFormat~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLVideoFormat.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLViewportWidthMode.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLViewportWidthMode.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLViewportWidthMode.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLViewportWidthMode~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/HTMLViewportWidthMode.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Indentation.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Indentation.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Indentation.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Indentation~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Indentation.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Language.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Language.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Language.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Language~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Language.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Node.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Node.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Node.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Node~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Node.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/NodeConvertible.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/NodeConvertible.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/NodeConvertible.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/NodeConvertible~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/NodeConvertible.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Optional+Component.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Optional+Component.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Optional+Component.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Optional+Component~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Optional+Component.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastAttributes.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastAttributes.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastAttributes.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastAttributes~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastAttributes.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastComponents.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastComponents.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastComponents.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastComponents~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastComponents.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastElements.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastElements.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastElements.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastElements~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastElements.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastEpisodeType.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastEpisodeType.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastEpisodeType.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastEpisodeType~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastEpisodeType.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastFeed.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastFeed.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastFeed.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastFeed~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastFeed.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastMediaType.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastMediaType.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastMediaType.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastMediaType~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastMediaType.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastType.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastType.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastType.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastType~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/PodcastType.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/RSS.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSS.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSS.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSS~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSS.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/RSSAttributes.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSSAttributes.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSSAttributes.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSSAttributes~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSSAttributes.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/RSSElements.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSSElements.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSSElements.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSSElements~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/RSSElements.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Renderable.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Renderable.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Renderable.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Renderable~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/Renderable.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/SiteMap.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMap.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMap.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMap~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMap.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/SiteMapChangeFrequency.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMapChangeFrequency.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMapChangeFrequency.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMapChangeFrequency~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMapChangeFrequency.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/SiteMapElements.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMapElements.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMapElements.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMapElements~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/SiteMapElements.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/TwitterCardType.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/TwitterCardType.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/TwitterCardType.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/TwitterCardType~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/TwitterCardType.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/URLRepresentable.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/URLRepresentable.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/URLRepresentable.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/URLRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/URLRepresentable.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/XML.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XML.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XML.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XML~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XML.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/XMLAttributes.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XMLAttributes.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XMLAttributes.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XMLAttributes~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XMLAttributes.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/XMLElements.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XMLElements.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XMLElements.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XMLElements~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/API/XMLElements.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/AnyAttribute.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyAttribute.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyAttribute.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyAttribute~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyAttribute.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/AnyElement.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyElement.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyElement.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyElement~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyElement.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/AnyEnvironmentValue.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyEnvironmentValue.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyEnvironmentValue.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyEnvironmentValue~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyEnvironmentValue.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/AnyNode.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyNode.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyNode.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyNode~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/AnyNode.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/ElementRenderingBuffer.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ElementRenderingBuffer.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ElementRenderingBuffer.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ElementRenderingBuffer~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ElementRenderingBuffer.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/ElementWrapper.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ElementWrapper.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ElementWrapper.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ElementWrapper~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ElementWrapper.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/Environment.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/Environment.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/Environment.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/Environment~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/Environment.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/ModifiedComponent.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ModifiedComponent.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ModifiedComponent.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ModifiedComponent~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/ModifiedComponent.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/Renderer.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/Renderer.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/Renderer.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/Renderer~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/Renderer.swiftdeps"
+  },
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/String+Escaping.swift": {
+    "dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/String+Escaping.d",
+    "object": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/String+Escaping.swift.o",
+    "swiftmodule": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/String+Escaping~partial.swiftmodule",
+    "swift-dependencies": "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/x86_64-unknown-linux-gnu/debug/Plot.build/Internal/String+Escaping.swiftdeps"
+  }
+}

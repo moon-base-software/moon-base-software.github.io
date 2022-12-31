@@ -1,0 +1,131 @@
+version: "Swift version 5.5.3 (swift-5.5.3-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1672482361, 747405052]
+build_end_time: [1672482366, 611310005]
+inputs:
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Attribute.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Component.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ComponentAttributes.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ComponentBuilder.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ComponentContainer.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ComponentGroup.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ControlFlow.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Document.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/DocumentEncoding.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Element.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ElementClosingMode.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ElementComponent.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/ElementDefinition.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/EmptyComponent.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/EnvironmentKey.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/EnvironmentValue.swift"
+  : [1672482356, 586037397]
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTML.swift": [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLAnchorRelationship.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLAnchorTarget.swift"
+  : [1672482356, 586037397]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLAttributes.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLAudioFormat.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLButtonType.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLComponents.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLElements.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLFormContentType.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLFormMethod.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLInputType.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLLinkRelationship.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLListStyle.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLVideoFormat.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/HTMLViewportWidthMode.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Indentation.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Language.swift"
+  : [1672482356, 590037584]
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Node.swift": [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/NodeConvertible.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Optional+Component.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastAttributes.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastComponents.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastElements.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastEpisodeType.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastFeed.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastMediaType.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/PodcastType.swift"
+  : [1672482356, 590037584]
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/RSS.swift": [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/RSSAttributes.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/RSSElements.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/Renderable.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/SiteMap.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/SiteMapChangeFrequency.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/SiteMapElements.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/TwitterCardType.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/URLRepresentable.swift"
+  : [1672482356, 590037584]
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/XML.swift": [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/XMLAttributes.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/API/XMLElements.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/AnyAttribute.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/AnyElement.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/AnyEnvironmentValue.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/AnyNode.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/ElementRenderingBuffer.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/ElementWrapper.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/Environment.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/ModifiedComponent.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/Renderer.swift"
+  : [1672482356, 590037584]
+  ? "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/.build/checkouts/plot/Sources/Plot/Internal/String+Escaping.swift"
+  : [1672482356, 590037584]
