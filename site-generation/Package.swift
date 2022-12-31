@@ -3,12 +3,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "MoonBaseSoftwareGithubIo",
+    name: "MoonBaseSoftware",
     platforms: [.macOS(.v12)],
     products: [
         .executable(
-            name: "MoonBaseSoftwareGithubIo",
-            targets: ["MoonBaseSoftwareGithubIo"]
+            name: "MoonBaseSoftware",
+            targets: ["MoonBaseSoftware"]
         )
     ],
     dependencies: [
@@ -16,7 +16,8 @@ let package = Package(
     ],
     targets: [
         .executableTarget(
-            name: "MoonBaseSoftwareGithubIo",
+            name: "MoonBaseSoftware",
+            path: "Sources",
             dependencies: ["Publish"]
         )
     ]
