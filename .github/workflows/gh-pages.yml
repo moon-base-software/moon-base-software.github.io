@@ -29,3 +29,4 @@ jobs:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: main
         PUBLISH_DIR: site-generation/Output
+        PRESERVE: true
