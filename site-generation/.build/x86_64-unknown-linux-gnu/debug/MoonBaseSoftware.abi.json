@@ -1,0 +1,976 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "MoonBaseSoftware"
+    },
+    {
+      "kind": "Import",
+      "name": "Plot",
+      "printedName": "Plot",
+      "declKind": "Import",
+      "moduleName": "MoonBaseSoftware"
+    },
+    {
+      "kind": "Import",
+      "name": "Publish",
+      "printedName": "Publish",
+      "declKind": "Import",
+      "moduleName": "MoonBaseSoftware"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "MoonBaseSoftware"
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "MoonBaseSoftware"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "MoonBaseSoftwareGithubIo",
+      "printedName": "MoonBaseSoftwareGithubIo",
+      "children": [
+        {
+          "kind": "TypeDecl",
+          "name": "SectionID",
+          "printedName": "SectionID",
+          "children": [
+            {
+              "kind": "Var",
+              "name": "posts",
+              "printedName": "posts",
+              "children": [
+                {
+                  "kind": "TypeFunc",
+                  "name": "Function",
+                  "printedName": "(MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID.Type) -> MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "SectionID",
+                      "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID",
+                      "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Metatype",
+                      "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID.Type",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "SectionID",
+                          "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID",
+                          "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "declKind": "EnumElement",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO5postsyA2EmF",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV9SectionIDO5postsyA2EmF",
+              "moduleName": "MoonBaseSoftware",
+              "fixedbinaryorder": 0
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init(rawValue:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "SectionID",
+                      "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID",
+                      "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO8rawValueAESgSS_tcfc",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV9SectionIDO8rawValueAESgSS_tcfc",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "init_kind": "Designated"
+            },
+            {
+              "kind": "Var",
+              "name": "allCases",
+              "printedName": "allCases",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "SectionID",
+                      "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID",
+                      "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO8allCasesSayAEGvpZ",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV9SectionIDO8allCasesSayAEGvpZ",
+              "moduleName": "MoonBaseSoftware",
+              "static": true,
+              "implicit": true,
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Array",
+                      "printedName": "[MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "SectionID",
+                          "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID",
+                          "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO"
+                        }
+                      ],
+                      "usr": "s:Sa"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO8allCasesSayAEGvgZ",
+                  "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV9SectionIDO8allCasesSayAEGvgZ",
+                  "moduleName": "MoonBaseSoftware",
+                  "static": true,
+                  "implicit": true,
+                  "accessorKind": "get"
+                }
+              ]
+            },
+            {
+              "kind": "Var",
+              "name": "rawValue",
+              "printedName": "rawValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO8rawValueSSvp",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV9SectionIDO8rawValueSSvp",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO8rawValueSSvg",
+                  "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV9SectionIDO8rawValueSSvg",
+                  "moduleName": "MoonBaseSoftware",
+                  "implicit": true,
+                  "accessorKind": "get"
+                }
+              ]
+            }
+          ],
+          "declKind": "Enum",
+          "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO",
+          "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV9SectionIDO",
+          "moduleName": "MoonBaseSoftware",
+          "enumRawTypeName": "String",
+          "isEnumExhaustive": true,
+          "conformances": [
+            {
+              "kind": "Conformance",
+              "name": "Hashable",
+              "printedName": "Hashable",
+              "usr": "s:SH",
+              "mangledName": "$sSH"
+            },
+            {
+              "kind": "Conformance",
+              "name": "RawRepresentable",
+              "printedName": "RawRepresentable",
+              "children": [
+                {
+                  "kind": "TypeWitness",
+                  "name": "RawValue",
+                  "printedName": "RawValue",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ]
+                }
+              ],
+              "usr": "s:SY",
+              "mangledName": "$sSY"
+            },
+            {
+              "kind": "Conformance",
+              "name": "Decodable",
+              "printedName": "Decodable",
+              "usr": "s:Se",
+              "mangledName": "$sSe"
+            },
+            {
+              "kind": "Conformance",
+              "name": "Equatable",
+              "printedName": "Equatable",
+              "usr": "s:SQ",
+              "mangledName": "$sSQ"
+            },
+            {
+              "kind": "Conformance",
+              "name": "CaseIterable",
+              "printedName": "CaseIterable",
+              "children": [
+                {
+                  "kind": "TypeWitness",
+                  "name": "AllCases",
+                  "printedName": "AllCases",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Array",
+                      "printedName": "[MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID]",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "SectionID",
+                          "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID",
+                          "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO"
+                        }
+                      ],
+                      "usr": "s:Sa"
+                    }
+                  ]
+                }
+              ],
+              "usr": "s:s12CaseIterableP",
+              "mangledName": "$ss12CaseIterableP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "WebsiteSectionID",
+              "printedName": "WebsiteSectionID",
+              "usr": "s:7Publish16WebsiteSectionIDP",
+              "mangledName": "$s7Publish16WebsiteSectionIDP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "Sendable",
+              "printedName": "Sendable",
+              "usr": "s:s8SendableP",
+              "mangledName": "$ss8SendableP"
+            }
+          ]
+        },
+        {
+          "kind": "TypeDecl",
+          "name": "ItemMetadata",
+          "printedName": "ItemMetadata",
+          "children": [
+            {
+              "kind": "Function",
+              "name": "hash",
+              "printedName": "hash(into:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Hasher",
+                  "printedName": "Swift.Hasher",
+                  "paramValueOwnership": "InOut",
+                  "usr": "s:s6HasherV"
+                }
+              ],
+              "declKind": "Func",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV4hash4intoys6HasherVz_tF",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV4hash4intoys6HasherVz_tF",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "funcSelfKind": "NonMutating"
+            },
+            {
+              "kind": "Function",
+              "name": "__derived_struct_equals",
+              "printedName": "__derived_struct_equals(_:_:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ItemMetadata",
+                  "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.ItemMetadata",
+                  "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ItemMetadata",
+                  "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.ItemMetadata",
+                  "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV"
+                }
+              ],
+              "declKind": "Func",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV23__derived_struct_equalsySbAE_AEtFZ",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV23__derived_struct_equalsySbAE_AEtFZ",
+              "moduleName": "MoonBaseSoftware",
+              "static": true,
+              "implicit": true,
+              "funcSelfKind": "NonMutating"
+            },
+            {
+              "kind": "Var",
+              "name": "hashValue",
+              "printedName": "hashValue",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV9hashValueSivp",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV9hashValueSivp",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Int",
+                      "printedName": "Swift.Int",
+                      "usr": "s:Si"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV9hashValueSivg",
+                  "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV9hashValueSivg",
+                  "moduleName": "MoonBaseSoftware",
+                  "implicit": true,
+                  "accessorKind": "get"
+                }
+              ]
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ItemMetadata",
+                  "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.ItemMetadata",
+                  "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataVAEycfc",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV12ItemMetadataVAEycfc",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "init_kind": "Designated"
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init(from:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ItemMetadata",
+                  "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.ItemMetadata",
+                  "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Decoder",
+                  "printedName": "Swift.Decoder",
+                  "usr": "s:s7DecoderP"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV4fromAEs7Decoder_p_tKcfc",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV4fromAEs7Decoder_p_tKcfc",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "throwing": true,
+              "init_kind": "Designated"
+            }
+          ],
+          "declKind": "Struct",
+          "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV",
+          "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV",
+          "moduleName": "MoonBaseSoftware",
+          "conformances": [
+            {
+              "kind": "Conformance",
+              "name": "Hashable",
+              "printedName": "Hashable",
+              "usr": "s:SH",
+              "mangledName": "$sSH"
+            },
+            {
+              "kind": "Conformance",
+              "name": "Equatable",
+              "printedName": "Equatable",
+              "usr": "s:SQ",
+              "mangledName": "$sSQ"
+            },
+            {
+              "kind": "Conformance",
+              "name": "Decodable",
+              "printedName": "Decodable",
+              "usr": "s:Se",
+              "mangledName": "$sSe"
+            },
+            {
+              "kind": "Conformance",
+              "name": "Sendable",
+              "printedName": "Sendable",
+              "usr": "s:s8SendableP",
+              "mangledName": "$ss8SendableP"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "url",
+          "printedName": "url",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "URL",
+              "printedName": "Foundation.URL",
+              "usr": "s:10Foundation3URLV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:16MoonBaseSoftware0abC8GithubIoV3url10Foundation3URLVvp",
+          "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV3url10Foundation3URLVvp",
+          "moduleName": "MoonBaseSoftware",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "URL",
+                  "printedName": "Foundation.URL",
+                  "usr": "s:10Foundation3URLV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV3url10Foundation3URLVvg",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV3url10Foundation3URLVvg",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "URL",
+                  "printedName": "Foundation.URL",
+                  "usr": "s:10Foundation3URLV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV3url10Foundation3URLVvs",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV3url10Foundation3URLVvs",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV3url10Foundation3URLVvM",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV3url10Foundation3URLVvM",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "name",
+          "printedName": "name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:16MoonBaseSoftware0abC8GithubIoV4nameSSvp",
+          "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV4nameSSvp",
+          "moduleName": "MoonBaseSoftware",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV4nameSSvg",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV4nameSSvg",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV4nameSSvs",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV4nameSSvs",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV4nameSSvM",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV4nameSSvM",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "description",
+          "printedName": "description",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:16MoonBaseSoftware0abC8GithubIoV11descriptionSSvp",
+          "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV11descriptionSSvp",
+          "moduleName": "MoonBaseSoftware",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV11descriptionSSvg",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV11descriptionSSvg",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV11descriptionSSvs",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV11descriptionSSvs",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV11descriptionSSvM",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV11descriptionSSvM",
+              "moduleName": "MoonBaseSoftware",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "language",
+          "printedName": "language",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Language",
+              "printedName": "Plot.Language",
+              "usr": "s:4Plot8LanguageO"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:16MoonBaseSoftware0abC8GithubIoV8language4Plot8LanguageOvp",
+          "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV8language4Plot8LanguageOvp",
+          "moduleName": "MoonBaseSoftware",
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Language",
+                  "printedName": "Plot.Language",
+                  "usr": "s:4Plot8LanguageO"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV8language4Plot8LanguageOvg",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV8language4Plot8LanguageOvg",
+              "moduleName": "MoonBaseSoftware",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "imagePath",
+          "printedName": "imagePath",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Publish.Path?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Path",
+                  "printedName": "Publish.Path",
+                  "usr": "s:7Publish4PathV"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:16MoonBaseSoftware0abC8GithubIoV9imagePath7Publish0G0VSgvp",
+          "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV9imagePath7Publish0G0VSgvp",
+          "moduleName": "MoonBaseSoftware",
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "Publish.Path?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Path",
+                      "printedName": "Publish.Path",
+                      "usr": "s:7Publish4PathV"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV9imagePath7Publish0G0VSgvg",
+              "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV9imagePath7Publish0G0VSgvg",
+              "moduleName": "MoonBaseSoftware",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MoonBaseSoftwareGithubIo",
+              "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:16MoonBaseSoftware0abC8GithubIoVACycfc",
+          "mangledName": "$s16MoonBaseSoftware0abC8GithubIoVACycfc",
+          "moduleName": "MoonBaseSoftware",
+          "implicit": true,
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(url:name:description:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "MoonBaseSoftwareGithubIo",
+              "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo",
+              "usr": "s:16MoonBaseSoftware0abC8GithubIoV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "URL",
+              "printedName": "Foundation.URL",
+              "hasDefaultArg": true,
+              "usr": "s:10Foundation3URLV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:16MoonBaseSoftware0abC8GithubIoV3url4name11descriptionAC10Foundation3URLV_S2Stcfc",
+          "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV3url4name11descriptionAC10Foundation3URLV_S2Stcfc",
+          "moduleName": "MoonBaseSoftware",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:16MoonBaseSoftware0abC8GithubIoV",
+      "mangledName": "$s16MoonBaseSoftware0abC8GithubIoV",
+      "moduleName": "MoonBaseSoftware",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Website",
+          "printedName": "Website",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "SectionID",
+              "printedName": "SectionID",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "SectionID",
+                  "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.SectionID",
+                  "usr": "s:16MoonBaseSoftware0abC8GithubIoV9SectionIDO"
+                }
+              ]
+            },
+            {
+              "kind": "TypeWitness",
+              "name": "ItemMetadata",
+              "printedName": "ItemMetadata",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ItemMetadata",
+                  "printedName": "MoonBaseSoftware.MoonBaseSoftwareGithubIo.ItemMetadata",
+                  "usr": "s:16MoonBaseSoftware0abC8GithubIoV12ItemMetadataV"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7Publish7WebsiteP",
+          "mangledName": "$s7Publish7WebsiteP"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

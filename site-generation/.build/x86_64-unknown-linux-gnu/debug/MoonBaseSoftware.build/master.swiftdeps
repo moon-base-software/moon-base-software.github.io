@@ -1,0 +1,6 @@
+version: "Swift version 5.5.3 (swift-5.5.3-RELEASE)"
+options: "8ef5046fbbd1600d3acfa786da61fd8406f925629add4420526302146e4e0aa2"
+build_start_time: [1672482373, 481173038]
+build_end_time: [1672482373, 971582889]
+inputs:
+  "/__w/moon-base-software.github.io/moon-base-software.github.io/site-generation/Sources/main.swift": [1672482301, 664819717]
