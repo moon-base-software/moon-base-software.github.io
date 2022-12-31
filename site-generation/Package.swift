@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .executableTarget(
             name: "MoonBaseSoftware",
-            path: "Sources",
-            dependencies: ["Publish"]
+            dependencies: ["Publish"],
+            path: "Sources"
         )
     ]
 )
